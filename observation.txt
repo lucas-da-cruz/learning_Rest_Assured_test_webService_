@@ -1,0 +1,8 @@
+Documentação que nos ela nos ensina como fazer autenticação usando o Rest-Assured.
+Conseguimos fazer Basic Authentication e até mesmo OAuth de maneira bem transparente!
+
+https://github.com/jayway/rest-assured/wiki/Usage#authentication
+
+Ela é bem prática: basta definirmos a sessão através do método sessionId()
+e as requisições pertencerão todas a mesma sessão.
+https://github.com/jayway/rest-assured/wiki/Usage#session-support.
